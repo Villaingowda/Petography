@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../js-basics"
+		},
+		{
+			"path": "../../../Javaapna"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Javaapna",
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
